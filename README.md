@@ -156,10 +156,7 @@ whois blog1seguimentmydomaine2bra.me
 
 If you improve the analysis or add indicators, open a PR and include source references and evidence.
 
-### License
 
-MIT — use for training and research only. Attribution appreciated.
 
----
 
-*End of document.*
+
